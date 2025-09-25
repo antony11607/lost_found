@@ -40,7 +40,8 @@ Server: XAMPP / WAMP (Localhost)
 
 Clone this repository:
 
-git clone https://github.com/yourusername/lost_found_app.git
+git clone [https://github.com/yourusername/lost_found_app.git]
+(https://github.com/antony11607/lost_found.git)
 
 
 Move the folder into your XAMPP htdocs/ (or WAMP www/) directory.
